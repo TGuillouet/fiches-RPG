@@ -1,0 +1,5 @@
+Pseudo: Manfrite
+Force: 2
+Intelligence: 1
+Toucher: 70
+Pouvoir: 30

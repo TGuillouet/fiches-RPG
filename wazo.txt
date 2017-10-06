@@ -1,0 +1,6 @@
+Pseudo: Wazo
+Force: 0
+Intelligence: 0
+Toucher: 0
+Pouvoir: 0
+
