@@ -1,0 +1,5 @@
+Pseudo: Flo
+Force: 1
+Intelligence: 1
+Toucher: 70
+Pouvoir: 30
