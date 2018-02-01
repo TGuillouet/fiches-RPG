@@ -48,6 +48,7 @@
           <option value="Wazo">Wazo</option>
           <option value="Kuro">Kuro</option>
           <option value="flo">flo</option>
+          <option value="Flo">Flo</option>
         </select>
         <input type="submit" name="" value="Voir">
         <button type="button" class="btnstats">Modifier les stats</button>
